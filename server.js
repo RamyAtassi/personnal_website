@@ -2,6 +2,10 @@
 let app = require("./app");
 let debug = require("debug")("mytechworld:server");
 let http = require("http");
+const connectDB = require("./config/db");
+
+// Connect Database
+connectDB();
 
 /**
  * Get port from environment and store in Express.

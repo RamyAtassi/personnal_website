@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://RamyAtassi:Strongo1@personnalwebsite-h50vd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "f52ba59b749fef6a6704",
+  "githubSecret": "513a235b6887a140a72ee0078b4346c3474535cb"
+}

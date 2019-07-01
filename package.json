@@ -21,6 +21,8 @@
     "request": "^2.88.0"
   },
   "dependencies": {
+    "config": "^3.1.0",
+    "mongodb": "^3.2.7",
     "mongoose": "^5.6.1"
   }
 }
